@@ -115,7 +115,10 @@ I have experience with web application security testing, CTF challenges, vulnera
         <li>Relational database modeling</li>
         <li>Social feed, profiles, likes, and comments</li>
       </ul>
-      <p>🔗 <a href="https://github.com/Lung-Alexandra/recipe-social-media">Repository</a></p>
+      <p>
+        🔗 <a href="https://github.com/Lung-Alexandra/recipe-social-media">Repository</a> ·
+        🚀 <a href="https://recipe-social-media-9fet.onrender.com/">Live Demo</a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🐾 Veterinary Social Network</h3>
@@ -133,7 +136,10 @@ I have experience with web application security testing, CTF challenges, vulnera
         <li>MVC-style backend structure</li>
         <li>Unit tests for core flows and business logic</li>
       </ul>
-      <p>🔗 <a href="https://github.com/Lung-Alexandra/veterinary-social-network">Repository</a></p>
+      <p>
+        🔗 <a href="https://github.com/Lung-Alexandra/veterinary-social-network">Repository</a> ·
+        🚀 <a href="https://veterinary-social-network.onrender.com">Live Demo</a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -152,7 +158,10 @@ I have experience with web application security testing, CTF challenges, vulnera
         <li>Automatic email notifications</li>
         <li>Unit tests for business logic</li>
       </ul>
-      <p>🔗 <a href="https://github.com/Lung-Alexandra/JavaProject">Repository</a></p>
+      <p>
+        🔗 <a href="https://github.com/Lung-Alexandra/JavaProject">Repository</a> ·
+        🚀 <a href="https://javaproject-rato.onrender.com/">Live Demo</a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Micro Social Platform</h3>
