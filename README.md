@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alexandra </h1>
 
 <h3 align="center">
-Computer Science Graduate · Master's Student in Security and Applied Logic · Full-Stack Development & Cybersecurity
+Computer Science Graduate · Master's Graduate in Security and Applied Logic · Cybersecurity · AI/ML · Reverse Engineering
 </h3>
 
 <p align="center">
@@ -17,11 +17,17 @@ Computer Science Graduate · Master's Student in Security and Applied Logic · F
 
 ## 👩‍💻 About Me
 
-I am a Computer Science graduate and Master's student in **Security and Applied Logic** at the **University of Bucharest**, based in Bucharest, Romania.
+I am a Computer Science graduate and I recently completed my Master's in **Security and Applied Logic** at the **University of Bucharest**, based in Bucharest, Romania.
 
-My main interests are **cybersecurity**, **secure software development**, **backend engineering**, and **full-stack web applications**. I enjoy building complete applications with authentication, authorization, database design, clean backend architecture, and practical security-aware implementation.
+My main interests are **cybersecurity**, **AI/ML**, **AI-assisted security workflows**, **reverse engineering**, **secure software development**, and **backend engineering**. I enjoy understanding how systems behave, where they fail, and how security findings can be turned into practical tools, detection ideas, or better engineering decisions.
 
-I have experience with web application security testing, CTF challenges, vulnerability analysis, and full-stack projects using technologies such as **Java Spring Boot**, **ASP.NET**, **Node.js**, **Express**, **Koa**, **React**, **SQL databases**, **JWT**, and **OAuth2**.
+I have hands-on experience with web application security testing, vulnerability analysis, CTF challenges, low-level security labs, and reverse engineering practice. I have worked with topics such as **SQL Injection**, **XSS**, **Command Injection**, authentication and authorization issues, buffer overflows, shellcoding, Return2Libc, ROP, ASLR/PIE, stack canaries, and binary analysis.
+
+I also completed a reverse engineering repository where I practiced binary inspection and analysis using tools such as **Ghidra**, **IDA**, **x64dbg**, and **radare2**.
+
+I am especially interested in how **AI/ML** and **LLM-assisted workflows** can support security research, malware analysis, triage, summarization, pattern recognition, and analyst productivity, while still keeping human review and security judgment at the center.
+
+Alongside security, I have built full-stack and backend projects using technologies such as **Java Spring Boot**, **ASP.NET**, **Node.js**, **Express**, **Koa**, **React**, **GraphQL**, **SQL databases**, **JWT**, and **OAuth2**.
 
 ---
 
@@ -39,6 +45,16 @@ I have experience with web application security testing, CTF challenges, vulnera
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+### 🤖 AI / ML & Security Research
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-Fundamentals-6A5ACD?style=flat-square" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-4682B4?style=flat-square" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LLM%20Security-2E3440?style=flat-square" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AI--Assisted%20Workflows-8A2BE2?style=flat-square" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Security%20Automation-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ### 🌐 Web & Backend Development
@@ -74,10 +90,23 @@ I have experience with web application security testing, CTF challenges, vulnera
   <img src="https://img.shields.io/badge/Web%20Application%20Security-2E3440?style=flat-square" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vulnerability%20Assessment-8A2BE2?style=flat-square" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Threat%20Research-800000?style=flat-square" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Secure%20Coding-228B22?style=flat-square" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CTFs-FF6F00?style=flat-square" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Pwn-B00020?style=flat-square" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Reverse%20Engineering-4B0082?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-4B0082?style=flat-square" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Malware%20Analysis-5B2C6F?style=flat-square" />
+</p>
+
+### 🔎 Reverse Engineering & Binary Analysis
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ghidra-CC0000?style=flat-square" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/IDA-1E90FF?style=flat-square" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/x64dbg-2E8B57?style=flat-square" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/radare2-333333?style=flat-square" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Static%20Analysis-4B0082?style=flat-square" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Dynamic%20Analysis-8B0000?style=flat-square" />
 </p>
 
 ### 🧰 Security & Development Tools
@@ -92,7 +121,6 @@ I have experience with web application security testing, CTF challenges, vulnera
   <img src="https://img.shields.io/badge/Gobuster-2E3440?style=flat-square" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
 </p>
-
 
 ---
 
@@ -184,13 +212,29 @@ I have experience with web application security testing, CTF challenges, vulnera
   </tr>
 </table>
 
-
 ---
 
 ## 🔐 Cybersecurity Projects
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3>🔎 Reverse Engineering Practice</h3>
+      <p><strong>Binary analysis and reverse engineering labs</strong></p>
+      <p>A cybersecurity-focused repository where I practiced reverse engineering workflows, binary inspection, control flow analysis, debugging, strings analysis, functions, and low-level program behavior.</p>
+      <p><strong>Tech Stack:</strong><br>
+      Ghidra · IDA · x64dbg · radare2 · C · Python · Linux</p>
+      <p><strong>Highlights:</strong></p>
+      <ul>
+        <li>Reverse engineering practice with Ghidra</li>
+        <li>Static and dynamic analysis workflows</li>
+        <li>Binary inspection and control flow analysis</li>
+        <li>Debugging and low-level program behavior</li>
+        <li>Strings, functions, and execution flow analysis</li>
+        <li>Foundation for malware analysis and binary triage</li>
+      </ul>
+      <p>🔗 <a href="https://github.com/Lung-Alexandra/reverse">Repository</a></p>
+    </td>
     <td width="50%" valign="top">
       <h3>🖥️ Operating Systems Design & Security Labs</h3>
       <p><strong>Low-level security practice focused on exploitation techniques and operating systems concepts</strong></p>
@@ -208,6 +252,8 @@ I have experience with web application security testing, CTF challenges, vulnera
       </ul>
       <p>🔗 <a href="https://github.com/Lung-Alexandra/osds">Repository</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🏴‍☠️ CTF Write-ups & Security Practice</h3>
       <p><strong>Collection of CTF scripts, write-ups, and cybersecurity exercises</strong></p>
@@ -227,10 +273,28 @@ I have experience with web application security testing, CTF challenges, vulnera
   </tr>
 </table>
 
-
 ---
 
 ## 📁 Other Relevant Projects
+
+### 🧠 UniEmbed for SQLi — Master's Dissertation Project
+
+**AI/ML model for SQL Injection detection and security-focused input analysis**
+
+A research-oriented project developed as part of my Master's dissertation, focused on applying AI/ML techniques to SQL Injection detection. The project explores how embedding-based models can support the analysis of potentially malicious inputs and help identify patterns related to SQL Injection attacks.
+
+**Tech Stack:** Python · AI/ML · Embeddings · NLP · Cybersecurity · SQL Injection Detection
+
+**Highlights:**
+
+* AI/ML-based security research
+* Embedding-based analysis for SQL Injection detection
+* Security-focused malicious input analysis
+* Model experimentation for identifying SQL Injection patterns
+* Master's dissertation project
+* Practical connection between machine learning and application security
+
+🔗 [Repository](https://github.com/Lung-Alexandra/UniEmbed_SQLI)
 
 ### ⚙️ VAM — Custom Memory Allocator
 
@@ -254,25 +318,28 @@ A custom memory allocator implemented in C, designed to explore how dynamic memo
 
 ## 📌 Additional Projects & Contributions
 
+* **NLP Project**  
+  **Natural language processing and AI/ML practice**  
+  A project focused on natural language processing concepts and practical AI/ML experimentation, relevant to my interest in AI-assisted security workflows and LLM-based analysis.  
+  **Tech:** Python, NLP, AI/ML fundamentals  
+  **Highlights:** natural language processing practice, text processing and analysis, AI/ML fundamentals, foundation for LLM-assisted workflows, interest in applying AI/ML concepts to cybersecurity research  
+  🔗 [Repository](https://github.com/Lung-Alexandra/NLP)
+
 * **PHP Internals / Open Source Contribution** — contributed to the official `php-src` project by investigating memory leaks in fuzzer components  
   **Tech:** C, PHP internals, cppcheck, GitHub Pull Requests  
   **Highlights:** static analysis, memory leak detection, open-source issue reporting, contribution workflow  
   🔗 [Issue](https://github.com/php/php-src/issues/18081)
 
-* **Regex to NFA** — automata theory and formal languages project
+* **Regex to NFA** — automata theory and formal languages project  
   🔗 [Repository](https://github.com/Lung-Alexandra/regex-to-nfa)
 
-* **NLP** — natural language processing project
-  🔗 [Repository](https://github.com/Lung-Alexandra/NLP)
-
-* **React Projects** — frontend practice and React-based UI projects
+* **React Projects** — frontend practice and React-based UI projects  
   🔗 [Repository](https://github.com/Lung-Alexandra/react-projects)
 
-* **OpenGL 3D Project** — graphics programming and 3D rendering project
+* **OpenGL 3D Project** — graphics programming and 3D rendering project  
   🔗 [Repository](https://github.com/Lung-Alexandra/OpenglProiect3D)
 
 ---
-
 
 ## 📊 GitHub Stats
 
@@ -286,14 +353,11 @@ A custom memory allocator implemented in C, designed to explore how dynamic memo
 
 ## 🎯 Currently Interested In
 
-- Full-stack web development
-- Building scalable and maintainable web applications
-- Backend development and API design
-- Frontend development with React and TypeScript
-- Authentication and authorization systems
-- Database-backed applications
-- Secure coding and web application security
-- Java Spring Boot, ASP.NET, Node.js, React, TypeScript, and modern web technologies
-
-
-
+- Threat research and malware analysis
+- AI/ML applications in cybersecurity
+- AI/LLM security and AI-assisted analyst workflows
+- Reverse engineering and binary analysis
+- Static and dynamic analysis with tools such as Ghidra, IDA, x64dbg, and radare2
+- Low-level security, exploitation concepts, and operating systems security
+- Python tooling for security automation and detection support
+- Secure backend development and practical application security
