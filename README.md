@@ -344,9 +344,12 @@ A custom memory allocator implemented in C, designed to explore how dynamic memo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lung-Alexandra&show_icons=true&theme=tokyonight&hide_rank=true" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lung-Alexandra&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lung-Alexandra&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lung-Alexandra&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lung-Alexandra&theme=tokyonight" />
 </p>
 
 ---
