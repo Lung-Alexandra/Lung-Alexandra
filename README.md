@@ -5,7 +5,7 @@ Computer Science Graduate · Master's Graduate in Security and Applied Logic · 
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lung-alexandra-9113a3173/">
+  <a href="https://www.linkedin.com/in/alexandra-lung-9113a3173/">
     <img src="https://img.shields.io/badge/LinkedIn-Alexandra%20Lung-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:alexandra.lung44@yahoo.com">
