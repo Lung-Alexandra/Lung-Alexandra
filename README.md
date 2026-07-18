@@ -188,7 +188,8 @@ Alongside security, I have built full-stack and backend projects using technolog
       </ul>
       <p>
         🔗 <a href="https://github.com/Lung-Alexandra/JavaProject">Repository</a> ·
-        🚀 <a href="https://javaproject-rato.onrender.com/">Live Demo</a>
+         🚀 <a href="https://appointment-booking-system-6527.up.railway.app/">Live Demo</a> ·
+        🚀 <a href="https://javaproject-rato.onrender.com/">Live Demo 2</a>
       </p>
     </td>
     <td width="50%" valign="top">
