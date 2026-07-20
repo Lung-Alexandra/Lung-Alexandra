@@ -166,7 +166,8 @@ Alongside security, I have built full-stack and backend projects using technolog
       </ul>
       <p>
         🔗 <a href="https://github.com/Lung-Alexandra/veterinary-social-network">Repository</a> ·
-        🚀 <a href="https://veterinary-social-network.onrender.com">Live Demo</a>
+        🚀 <a href="https://veterinary-social-network.vercel.app/">Live Demo</a> ·
+        🚀 <a href="https://veterinary-social-network.onrender.com">Live Demo 2</a>
       </p>
     </td>
   </tr>
