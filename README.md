@@ -314,7 +314,7 @@ A custom memory allocator implemented in C, designed to explore how dynamic memo
 * Explored heap allocation concepts
 * Strengthened C and systems programming fundamentals
 
-🔗 [Repository](https://github.com/Lung-Alexandra/VAM)
+🔗 [Repository](https://github.com/Lung-Alexandra/VAM-memory-allocator)
 
 ---
 
