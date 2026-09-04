@@ -495,7 +495,8 @@ Frontend practice and React-based UI projects.
 
 Graphics programming and 3D rendering project.
 
-🔗 [Repository](https://github.com/Lung-Alexandra/OpenglProiect3D)
+🔗 [Repository1](https://github.com/Lung-Alexandra/OpenglProiect3D)
+🔗 [Repository2](https://github.com/Lung-Alexandra/opengl-projects)
 
 ---
 
